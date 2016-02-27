@@ -1,0 +1,33 @@
+_repo: Timon-of-Athens_2262
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Timon of Athens is a bitterly intriguing study of a fabulously rich man
+  who wastes his wealth on his friends, and, when he is finally impoverished, learns
+  to despise humanity with a hatred that drives him to his grave. The play's plot
+  structure is schematically clear, and the poetry of Timon's rage is arresting in
+  its savage intensity. Yet readers have often detected loose ends, and the tone of
+  writing is uneven.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'Athens (Greece) -- Drama'
+- !lcsh 'Timon of Athens (Legendary character) -- Drama'
+title: Timon of Athens
+url: http://www.gutenberg.org/ebooks/2262
