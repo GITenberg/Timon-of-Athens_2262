@@ -1,5 +1,5 @@
 _repo: Timon-of-Athens_2262
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Tragedies'
 - !lcsh 'Athens (Greece) -- Drama'
 - !lcsh 'Timon of Athens (Legendary character) -- Drama'
+- GITenberg
 title: Timon of Athens
 url: http://www.gutenberg.org/ebooks/2262
